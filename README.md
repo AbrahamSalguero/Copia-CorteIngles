@@ -15,5 +15,3 @@ https://github.com/AbrahamSalguero/Copia-CorteIngles/assets/96110567/58cc3a21-7c
 
 
 
-https://github.com/AbrahamSalguero/Copia-CorteIngles/assets/96110567/73226382-fb27-4187-aab2-53ee4d3f04e0
-
