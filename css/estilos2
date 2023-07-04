@@ -90,7 +90,7 @@ scroll-behavior: smooth;
             top: 0;
             }
 /*---------------------------------------------------------------------------*/
-.logo>img{
+.logo > img{
     width: 250px;
     margin: 0;
     padding: 0;
@@ -100,14 +100,14 @@ scroll-behavior: smooth;
   flex-direction: row;
   justify-content: center;
 }
-.lista>ul{
+.lista > ul{
     list-style-type: none;
     padding: 0;
     margin: 0;
     display: flex;
     
 }
-.lista>ul>li>a{
+.lista > ul > li > a{
 text-decoration: none;
 padding: 5px;
 }
@@ -120,7 +120,7 @@ padding: 5px;
     width: 100%;
     height: auto;
 }
-.divVideo>video{
+.divVideo > video{
     margin: auto;
     width: 100%;
 }
@@ -132,20 +132,20 @@ padding: 5px;
     flex-wrap: nowrap;
 }
 
-.divModa>div{
+.divModa > div{
     padding: 15px;
 }
-.divModa>div>img{
+.divModa > div > img{
     width: 100%;
 }
-.divModa>div>p{
+.divModa > div > p{
     text-align: center;
 }
-.divModa>div>p>a{
+.divModa > div > p > a{
     text-decoration: none;
     text-transform: uppercase;
 }
-.divModa>div>p>a:hover{
+.divModa > div > p > a:hover{
     color: darkred;
 }
 /*---------------------------------------------------------------------------*/
@@ -155,11 +155,11 @@ padding: 5px;
     flex-direction: row;
     flex-wrap: nowrap;
 }
-.divCasa>div{
+.divCasa > div{
     width: 50%;
     padding: 15px;
 }
-.divCasa>div>img{
+.divCasa > div > img{
     width: 100%;
 }
 /*---------------------------------------------------------------------------*/
@@ -169,11 +169,11 @@ padding: 5px;
     flex-wrap: nowrap;   
 }
     
-.divMovil>div{
+.divMovil > div{
     width: 50%;
     padding: 15px;
 }
-.divMovil>div>img{
+.divMovil > div > img{
     width: 100%;
 }
 /*-----------------------------------------------------------------*/
@@ -183,7 +183,7 @@ padding: 5px;
     flex-direction: row;
     flex-wrap: nowrap;  
 }
-.divLogoRunning>div>img{
+.divLogoRunning > div > img{
     width: 100%;
 }
 .divRunning{
@@ -191,18 +191,18 @@ padding: 5px;
     flex-direction: row;
     flex-wrap: nowrap;
 }
-.divRunning>div{
+.divRunning > div{
     padding: 15px;
 }
-.divRunning>div>img{
+.divRunning > div > img{
     width: 100%;
 }
-.divRunning>div>p{
+.divRunning > div > p{
     text-align: center;
     margin: 0;
     padding: 0;
 }
-.divRunning>div>a{
+.divRunning > div > a{
     display: block;
     text-align: center;
     margin: 0;
@@ -289,7 +289,7 @@ padding: 5px;
     flex-direction: column;
     flex-wrap: nowrap;
 }
-.redesFooter>p{
+.redesFooter > p{
     text-align: center;
     font-weight: bold;
     font-size: 30px;
@@ -303,7 +303,7 @@ padding: 5px;
     justify-content: center;
 }
 
-.siguenos>a>img{
+.siguenos > a > img{
     height: 50px;
     margin: 15px 0px;
     padding-left: 5px;
@@ -321,27 +321,27 @@ padding: 5px;
     flex-wrap: nowrap;
     justify-content: center;
 }
-.copyrightFooter>img{
+.copyrightFooter > img{
     width:50px;
     height:50px;
     margin-right: 15px;
 }
-.copyrightFooter>span{
+.copyrightFooter > span{
     padding-top: 13px;
 }
-.legal>ul{
+.legal > ul{
     list-style-type: none;
     padding: 0;
     margin: 0;
     display: flex;
     justify-content: center;
 }
-.legal>ul>li>a{
+.legal > ul > li > a{
     padding: 15px; 
     text-decoration: none; 
     font-weight: bold; 
 }
-.legal>ul>li>a:hover{
+.legal > ul > li > a:hover{
     color: darkred;
 }
 
@@ -361,7 +361,7 @@ padding: 5px;
     .lista{
         display: none;
     }
-    .divModa>div{
+    .divModa > div{
        width: 100%;
     }
     .redesFooter{
